@@ -98,6 +98,6 @@ fig.show()
 - Jupyter Notebook  
 
 ## 👨‍💻 Author  
-### **Mulkesh Sharma**  
+### **Piyush **  
 
 ---  
