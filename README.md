@@ -1,6 +1,6 @@
 # Finance Data Analysis Project
 
-🚀 **By Mulkesh Sharma**  
+🚀 **By Piyush**  
 
 This project is a **financial data analysis** tool built using Python and Jupyter Notebook. It explores financial datasets, performs statistical analysis, and visualizes key financial metrics using **Seaborn** and **Plotly** for stunning interactive charts. 📊📉  
 
